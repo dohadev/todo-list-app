@@ -1,0 +1,13 @@
+{
+  "name": "todo-list-ts",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "tsc && npx serve ."
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "serve": "^14.2.0"
+  }
+}
